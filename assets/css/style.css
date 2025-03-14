@@ -22,3 +22,15 @@ body {
         height: auto !important;
     }
 }
+.display-4 fw-bold {
+    text-shadow: -1px -1px 0 #efe4d1,
+                 1px -1px 0 #efe4d1,
+                 -1px 1px 0 #efe4d1,
+                 1px 1px 0 #efe4d1;
+}
+.fs-5 {
+    text-shadow: -1px -1px 0 #efe4d1,
+                 1px -1px 0 #efe4d1,
+                 -1px 1px 0 #efe4d1,
+                 1px 1px 0 #efe4d1;
+}
