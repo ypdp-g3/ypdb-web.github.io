@@ -22,15 +22,9 @@ body {
         height: auto !important;
     }
 }
-h2.display-4 fw-bold {
+h2.display-4{
     text-shadow: -2px -2px 0 #efe4d1,
                  2px -2px 0 #efe4d1,
                  -2px 2px 0 #efe4d1,
                  2px 2px 0 #efe4d1;
-}
-p.fs-5 {
-    text-shadow: -1px -1px 0 #efe4d1,
-                 1px -1px 0 #efe4d1,
-                 -1px 1px 0 #efe4d1,
-                 1px 1px 0 #efe4d1;
 }
